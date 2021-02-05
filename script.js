@@ -5,6 +5,3 @@ fetch("http://www.boredapi.com/api/activity/")
 function reload(){
     location.reload();
 }
-
-// const activity = document.getElementById("activity").innerText;
-// activity.style.color = "blue";
